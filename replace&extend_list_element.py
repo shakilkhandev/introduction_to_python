@@ -9,6 +9,12 @@ areas[-1]=10.50
 
 areas[-6] = "chill zone"
 
+
+
+
+
+#  Extending a list______________________
+
 # Create the areas list and make some changes
 areasnew = ["hallway", 11.25, "kitchen", 18.0, "chill zone", 20.0,
          "bedroom", 10.75, "bathroom", 10.50]
